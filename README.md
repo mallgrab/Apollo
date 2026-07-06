@@ -1,4 +1,4 @@
-# Apollol
+# Apollo
 
 ## Requirements
 - PHP 8.2+
